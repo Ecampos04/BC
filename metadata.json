@@ -1,0 +1,6 @@
+{
+  "name": "Barreto & Campos - Localizador de Pastas e Arquivos",
+  "description": "Localizador inteligente de pastas e organizador de arquivos por categorias e etiquetas para o drive Barreto e Campos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
